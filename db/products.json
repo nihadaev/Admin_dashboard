@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "title": "nb",
+      "price": "54",
+      "description": "  b",
+      "category": "12313",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "wome",
+      "id": 2
+    },
+    {
+      "name": "12313",
+      "id": 3
+    },
+    {
+      "name": "asaas",
+      "id": 4
+    },
+    {
+      "name": "kkjjh",
+      "id": 5
+    },
+    {
+      "name": "knkh",
+      "id": 6
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blog 1",
+      "body": "Lorem isum ...",
+      "image": "https://picsum.photos/id/237/536/354"
+    },
+    {
+      "image": "https://picsum.photos/seed/picsum/536/354",
+      "title": "Nature",
+      "body": "Lorem About Nature",
+      "id": 3
+    },
+    {
+      "title": "Lox",
+      "image": "https://picsum.photos/id/1084/536/354?grayscale",
+      "body": "Some infromation about grayscale",
+      "id": 4
+    },
+    {
+      "image": "https://picsum.photos/id/1084/536/354?grayscale",
+      "title": "bbjbjbjv",
+      "body": "Some infromation about grayscal",
+      "id": 5
+    }
+  ]
+}
